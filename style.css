@@ -36,7 +36,13 @@ nav a:hover{
 .column.middle{
 width: 50%;
 }
-
+footer{
+	clear: both;
+	background-color: green;
+	color: white;
+	font-family: "comic sans ms";
+	padding: 20px;
+}
 @media screen and (max-width: 600px){
 	.column.side,column.middle{
 		width: 100%;
@@ -62,19 +68,11 @@ div.gallery img{
 padding-bottom: 2px;
 
 }
-/*div.gallery:hover{
+div.gallery:hover{
 	border: 1px solid red;
-}*/
+}
 
 
-/*
-footer{
-	
-	background-color: green;
-	padding: 10px;
-	color: white;
-	text-align: center;
-}*/
 input[type=text],select,textarea{
 	width:100%;
 	padding-left: 10px;
