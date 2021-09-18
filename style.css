@@ -19,7 +19,7 @@ nav a{
 	color: white;
 	padding: 14px 16px ; /*top button left right
 	text-decoration: none;/* underline hatauna li*/
-
+text-decoration: none;
 }
 /*hover=mouses loigada ka garna vanako ho*/
 nav a:hover{
@@ -35,6 +35,9 @@ nav a:hover{
 }
 .column.middle{
 width: 50%;
+}
+footer{
+	clear: both;
 }
 /*p{
 	text-align: justify;/* text li melaune*/
@@ -55,9 +58,9 @@ div.gallery img{
 padding-bottom: 2px;
 
 }
-div.gallery:hover{
+/*div.gallery:hover{
 	border: 1px solid red;
-}
+}*/
 
 
 /*
@@ -108,4 +111,3 @@ footer p{
     30%  {left: 100%;}
     70% {left: 0%;}
 }
-The problem i
