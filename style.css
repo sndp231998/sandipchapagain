@@ -41,17 +41,18 @@ footer{
 	background-color: green;
 	color: white;
 	font-family: "comic sans ms";
-	padding: 20px;
+	padding: 10px;
 }
 @media screen and (max-width: 600px){
 	.column.side,column.middle{
 		width: 100%;
 	}
 }
-
-p{
+section p{
 	text-align: justify;
 }
+
+
 .ul{
 	text-align: right;
 }
