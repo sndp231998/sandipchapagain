@@ -36,11 +36,9 @@ nav a:hover{
 .column.middle{
 width: 50%;
 }
+
 footer{
 	clear: both;
-}
-/*p{
-	text-align: justify;/* text li melaune*/
 }
 .ul{
 	text-align: right;
